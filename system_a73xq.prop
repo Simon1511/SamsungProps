@@ -1,0 +1,129 @@
+##
+# Based on Pixel Props https://t.me/PixelProps by @T3SL4
+# Modified for Samsung usage by @Simon1511
+##
+
+###
+#-#
+###
+
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+ro.product.product.brand=samsung
+ro.product.product.device=a73xq
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-A736B
+ro.product.product.name=a73xqxx
+ro.product.build.fingerprint=samsung/a73xqxx/a73xq:11/RP1A.200720.012/A736BXXU5CWH7:user/release-keys
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+# end common build properties
+
+###
+# end product/etc/build.prop
+###
+
+###
+# begin vendor/build.prop
+###
+
+# begin common build properties
+ro.product.vendor.brand=samsung
+ro.product.vendor.device=a73xq
+ro.product.vendor.manufacturer=samsung
+ro.product.vendor.model=SM-A736B
+ro.product.vendor.name=a73xqxx
+ro.vendor.build.fingerprint=samsung/a73xqxx/a73xq:11/RP1A.200720.012/A736BXXU5CWH7:user/release-keys
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+# end common build properties
+
+# begin ADDITIONAL_VENDOR_PROPERTIES
+ro.vendor.build.security_patch=2023-08-01
+# end ADDITIONAL_VENDOR_PROPERTIES
+
+# begin BOOTIMAGE_build_prop to_system_propERTIES
+ro.bootimage.build.fingerprint=samsung/a73xqxx/a73xq:11/RP1A.200720.012/A736BXXU5CWH7:user/release-keys
+# end BOOTIMAGE_build_prop to_system_propERTIES
+
+###
+# end vendor/build.prop
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.product.odm.brand=samsung
+ro.product.odm.device=a73xq
+ro.product.odm.manufacturer=samsung
+ro.product.odm.model=SM-A736B
+ro.product.odm.name=a73xqxx
+ro.odm.build.fingerprint=samsung/a73xqxx/a73xq:11/RP1A.200720.012/A736BXXU5CWH7:user/release-keys
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.product.system.brand=samsung
+ro.product.system.device=a73xq
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A736B
+ro.product.system.name=a73xqxx
+ro.system.build.fingerprint=samsung/a73xqxx/a73xq:11/RP1A.200720.012/A736BXXU5CWH7:user/release-keys
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+# end common build properties
+
+# begin build properties
+ro.build.version.security_patch=2023-08-01
+ro.build.type=user
+ro.build.tags=release-keys
+ro.build.flavor=a73xqxx-user
+ro.build.product=a73xq
+ro.build.description=a73xqxx-user 11 RP1A.200720.012 A736BXXU5CWH7 release-keys
+# end build properties
+
+# begin extra's from /system/build.prop
+ro.build.fingerprint=samsung/a73xqxx/a73xq:11/RP1A.200720.012/A736BXXU5CWH7:user/release-keys
+ro.product.brand=samsung
+ro.product.device=a73xq
+ro.product.manufacturer=samsung
+ro.product.model=SM-A736B
+ro.product.name=a73xqxx
+# end extra's from /system/build.prop
+
+###
+# end system/system/build.prop
+###
+
+###
+# begin system_ext/etc/build.prop
+###
+
+# begin common build properties
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=a73xq
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-A736B
+ro.product.system_ext.name=a73xqxx
+ro.system_ext.build.fingerprint=samsung/a73xqxx/a73xq:11/RP1A.200720.012/A736BXXU5CWH7:user/release-keys
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+# end common build properties
+
+###
+# end system_ext/etc/build.prop
+###
